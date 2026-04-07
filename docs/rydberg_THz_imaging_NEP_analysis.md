@@ -307,8 +307,8 @@ $$\boxed{\text{NEP}_\text{technical} \approx 40\ \text{fW/pixel/Hz}^{1/2} \text{
 | NEP_atom | 量子投影噪声 + 动力学极限 | 10 | 2.1% |
 | NEP_camera | 相机读取噪声 + 暗电流 | 10 | 2.1% |
 | NEP_thermal | 热辐射背景（300 K） | 20 | 8.3% |
-| NEP_technical | 激光噪声 + 系统抖动 + 杂散光 | 40 | 34.7% |（含振动）|
-| **NEP_total (RSS)** | **均方根合成** | **≈ 66** | — |
+| NEP_technical | 激光噪声 + 系统抖动 + 杂散光（含振动） | 40 | 34.7% |
+| **NEP_total (RSS)** | **均方根合成** | **≈ 69** | — |
 
 **RSS 计算：**
 
